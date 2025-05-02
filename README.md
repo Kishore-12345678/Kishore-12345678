@@ -16,34 +16,8 @@ Welcome to my GitHub! I'm a data analyst passionate about helping organizations 
 - 🗃️ **Databases:** SQL Server, PostgreSQL, SQLite
 - 🔄 **ETL & Automation:** Python scripts, Excel macros, scheduled reports
 - 📚 **Other Tools:** Git, Jupyter Notebook, VS Code, Google Sheets
-
----
-
-## 📂 Featured Projects
-
-🔹 **Sales Dashboard in Power BI**  
-Interactive dashboard visualizing regional sales trends, product performance, and forecasts.  
-*Tools: Power BI, Excel, DAX*  
-[GitHub Repo Link]
-
-🔹 **Customer Segmentation with RFM Analysis**  
-Applied RFM to segment customers and suggest marketing strategies.  
-*Tools: Python, Pandas, Matplotlib*  
-[GitHub Repo Link]
-
-🔹 **SQL Data Cleaning Challenge**  
-Cleaned and normalized messy customer data using complex SQL queries.  
-*Tools: SQL Server, PostgreSQL*  
-[GitHub Repo Link]
-
----
-
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
 
 ## 🌱 Currently Learning
 - Advanced Power BI (DAX, Row-Level Security)
